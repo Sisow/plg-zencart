@@ -4,6 +4,8 @@
 
 # Buckaroo Zen Cart Payments Plugin (former Sisow)
 
+> :warning: **PLEASE NOTE**: The Zen Cart Payments Plugin (former Sisow) is DEPRECATED and will no longer be maintained.
+
 ### Index
 - [About](#about)
 - [Contribute](#contribute)

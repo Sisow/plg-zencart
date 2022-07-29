@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://www.buckaroo.nl/media/3601/sisow_zencart.png" width="200px" position="center">
+</p>
+
 # Buckaroo Zen Cart Payments Plugin (former Sisow)
 
 ### Index
